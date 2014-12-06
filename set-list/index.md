@@ -1,0 +1,227 @@
+---
+title: Set List
+layout: page
+---
+
+Redline only covers the BEST which is guaranteed to make your experience a truly memorable one!  Check back regularly as we are always adding new songs…
+========================================================================================================================================================
+
+**AC/DC**
+
+* Highway To Hell
+* Shook Me All Night Long
+
+
+**AEROSMITH**
+
+* Sweet Emotion
+* Walk This Way
+  
+  
+**BAD COMPANY**
+
+* Can’t Get Enough
+* Feel Like Makin Love
+
+**BEASTIE BOYS**
+
+* Fight For Your Right
+
+**BEYONCE**
+
+* Crazy In Love
+
+**BIG & RICH**
+
+* Save A Horse
+
+**BILLY IDOL**
+
+* Rebell Yell
+* White Wedding
+
+**BLACK CROWES**
+
+* Hard To Handle
+
+**BOB SEEGAR**
+
+* Old Time Rock & Roll
+
+**BON JOVI**
+
+* Bad Name
+* Livin’ On A Prayer
+
+**BRUNO MARS**
+
+* Locked Out of Heaven
+
+**BRYAN ADAMS**
+
+* Summer of 69
+
+**CAMEO**
+
+* Word Up
+
+**CARRIE UNDERWOOD**
+
+* Good Girl
+
+**CHEAP TRICK**
+
+* I Want You To Want Me
+
+**DEF LEPPARD**
+
+* Pour Some Sugar
+
+**GA SATELLITES**
+
+* Keep Your Hands To Yo’self
+
+**GRACE POTTER**
+
+* Paris (Ohh La La)
+
+**GRAND FUNK RAILROAD**
+
+* Some Kind of Wonderful
+
+**GUNS N’ ROSES**
+
+* Paradise City
+* Sweet Child O’ Mine
+
+**HEART**
+
+* Barracuda
+
+**JAMES BROWN**
+
+* I Feel Good
+
+**JETT**
+
+* Are U Gonna Be My Girl
+
+**JOAN JETT**
+
+* I Hate Myself For Loving You
+* I Love Rock & Roll
+
+**J. MELLENCAMP**
+
+* Hurts So Good
+* R.O.C.K. In The USA
+
+**JOURNEY**
+
+* Anyway You Want It
+* Don’t Stop Believing
+* Faithfully
+* Separate Ways
+
+**KATY PERRY**
+
+* Last Friday Night
+
+**KELLY CLARKSON**
+
+* Since You Been Gone
+
+**KENNY LOGGINS**
+
+* Footloose
+
+**KISS**
+
+* Rock & Roll All Night
+
+**LED ZEPPELIN**
+
+* Rock & Roll
+
+**LOVERBOY**
+
+* Workin For The Weekend
+
+**MICHAEL JACKSON**
+
+* Beat It
+* Billie Jean
+
+**METALLICA**
+
+* Enter Sandman
+
+**PAT BENATAR**
+
+* Heartbreaker
+* Hit Me With Your Best Shot
+
+**PINK**
+
+* So What
+* U & Ur Hand
+* Raise Your Glass
+
+**POISON**
+
+* Nothin But A Good Time
+
+**ROLLING STONES**
+
+* Honky Tonk Woman
+* Satisfaction
+
+**ROMANTICS**
+
+* What I Like About You
+
+**RIHANNA**
+
+* Please Don’t Stop The Music
+
+**SUBLIME**
+
+* Santeria
+
+**THE COMMODORES**
+
+* Brickhouse
+
+**THE OUTFIELD**
+
+* Your Love
+
+**TONI BASIL**
+
+* Hey Mickey
+
+**TOM PETTY**
+
+* American Girl
+
+**VAN MORRISON**
+
+* Brown Eyed Girl
+
+**WILD CHERRY**
+
+* Play That Funky Music
+
+**WHITESNAKE**
+
+* Here I Go Again
+
+**ZZ TOP**
+
+* Tush
+
+**MOTOWN**
+
+* My Girl – Temptations
+* Build Me Up Buttercup – The Foundations
+* Signed, Sealed Delivered – Stevie Wonder

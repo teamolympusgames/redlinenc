@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+<body class="home page page-template-default">
+<div id="outerWrapper">
+<div id="innerWrapper">
+
+    {% include header.html %}
+
+<div id="contentWrap">
+  <div id="content-block">
+	<article class="page type-page status-publish hentry" id="post">
+		<div class="entry">
+			 	{{ content }}
+		</div>
+ 	</article>
+   </div>
+</div>
+
+    {% include footer.html %}
+</div><!-- end #innerWrapper -->
+</div><!-- end #outerWrapper -->
+
+  </body>
+
+</html>

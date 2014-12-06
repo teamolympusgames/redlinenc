@@ -1,0 +1,31 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ site.description }}">
+
+
+    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" id="NextGEN-css"  href="{{ "/css/nggallery.css" | prepend: site.baseurl }}" type="text/css" media="screen" />
+	<link rel='stylesheet' id='slimbox2-css'  href='http://redlinenc.com/wp-content/plugins/wp-slimbox2/css/slimbox2.css?ver=1.1' type='text/css' media='screen' />
+
+
+<script type='text/javascript' src='http://redlinenc.com/wp-includes/js/jquery/jquery.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://redlinenc.com/wp-content/plugins/gigpress/scripts/gigpress.js?ver=3.4.1'></script>
+<script type='text/javascript' src='http://redlinenc.com/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995'></script>
+<script type='text/javascript' src='http://redlinenc.com/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06'></script>
+<script type='text/javascript' src='http://redlinenc.com/wp-content/plugins/wp-slimbox2/javascript/slimbox2.js?ver=2.04'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slimbox2_options = {"autoload":"","overlayColor":"#000000","loop":"","overlayOpacity":"0.8","overlayFadeDuration":"400","resizeDuration":"400","resizeEasing":"swing","initialWidth":"250","initialHeight":"250","imageFadeDuration":"400","captionAnimationDuration":"400","caption":"el.title || el.firstChild.alt || el.firstChild.title || el.href || el.href","url":"","selector":"div.entry-content, div.gallery, div.entry, div.post, div#page, body","counterText":"Image {x} of {y}","closeKeys":"27,88,67","previousKeys":"37,80","nextKeys":"39,78","prev":"http:\/\/redlinenc.com\/wp-content\/plugins\/wp-slimbox2\/images\/default\/prevlabel.gif","next":"http:\/\/redlinenc.com\/wp-content\/plugins\/wp-slimbox2\/images\/default\/nextlabel.gif","close":"http:\/\/redlinenc.com\/wp-content\/plugins\/wp-slimbox2\/images\/default\/closelabel.gif","picasaweb":"","flickr":"","mobile":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://redlinenc.com/wp-content/plugins/wp-slimbox2/javascript/slimbox2_autoload.js?ver=1.0.4b'></script>
+<script type='text/javascript' src='http://redlinenc.com/wp-content/plugins/flash-album-gallery/admin/js/swfobject.js?ver=2.2'></script>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+
+</head>

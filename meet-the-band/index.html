@@ -1,0 +1,42 @@
+---
+title: Meet The Band
+layout: page
+---
+
+{% for member in site.data.members %}
+
+<p><!-- Start Of Bio Information --></p>
+
+<div class="bio-wrapper">
+
+<div class="bio">
+
+<div class="bio-name">
+<h1>{{ member.name }} &#8211; {{ member.instrument }}</h1>
+
+</div>
+<p><!-- end .bio-name --></p>
+
+<div class="bio-image"><img class="alignleft size-full wp-image-664" title="Christa" 
+src="{{ member.pic }}" 
+alt="Christa" width="250" height="435" />
+</div>
+<p><!-- end .bio-image --></p>
+
+<div class="bio-details">
+
+{{ member.bio | markdownify }}
+</div>
+<p><!-- end .bio-details --></p>
+
+<div class="clearfloat"> </div>
+<p><!-- end .clearfloat --></p>
+
+</div>
+<p><!--end .bio --></p>
+
+</div>
+<p><!-- end .bio-wrapper --></p>
+
+			
+{% endfor %}
