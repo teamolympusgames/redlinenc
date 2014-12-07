@@ -9,3 +9,5 @@ twitter_username: redlinenc
 
 # Build settings
 markdown: kramdown
+exclude: 
+    - s3_website.yml
