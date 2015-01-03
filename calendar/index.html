@@ -15,7 +15,10 @@ layout: page
         <tr class="gigpress-tr-spacer"></tr>
 	</tbody>
 
+{% capture nowminusdate %}{{'now' | date: '%s' | divided_by: 86400| minus: 1 }}{% endcapture %}
 {% for show in site.data.shows %}
+{% capture showdate %}{{ show.Date | date: '%s' | divided_by: 86400 }}{% endcapture %}
+{% if nowminusdate < showdate %}
 <tbody class="vevent">
 	
 	<tr class="gigpress-row active">
@@ -43,5 +46,6 @@ layout: page
       <tr class="gigpress-tr-spacer"></tr>	
 	</tr>
 </tbody>	
+{% endif %}
 {% endfor %}
 </table>

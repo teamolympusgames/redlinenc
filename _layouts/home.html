@@ -49,9 +49,10 @@
 show the next three months of shows: get today's date in seconds, convert to days, add 90
 compare to the show's date in days
 --->
+{% capture nowminusdate %}{{'now' | date: '%s' | divided_by: 86400| minus: 1 }}{% endcapture %}
 {% capture nowplusdate %}{{'now' | date: '%s' | divided_by: 86400| plus: 90 }}{% endcapture %}
 {% capture showdate %}{{ show.Date | date: '%s' | divided_by: 86400 }}{% endcapture %}
-{% if nowplusdate > showdate %}
+{% if nowplusdate > showdate and nowminusdate < showdate %}
 
 <li class="vevent active">
 	<span class="gigpress-sidebar-date">
