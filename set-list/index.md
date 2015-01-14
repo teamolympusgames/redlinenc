@@ -51,11 +51,13 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **BON JOVI**
 
 * Bad Name
+* Dead or Alvie
 * Livin’ On A Prayer
 
 **BRUNO MARS**
 
 * Locked Out of Heaven
+* Uptown Funk
 
 **BRYAN ADAMS**
 
@@ -102,6 +104,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * I Feel Good
 
+**JESSIE J**
+
+* Domino
+
 **JETT**
 
 * Are U Gonna Be My Girl
@@ -123,8 +129,13 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Faithfully
 * Separate Ways
 
+**JUSTIN TIMBERLAKE**
+
+* Rock Your Body
+
 **KATY PERRY**
 
+* E.T.
 * Last Friday Night
 
 **KELLY CLARKSON**
@@ -134,6 +145,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **KENNY LOGGINS**
 
 * Footloose
+
+**KINGS OF LEON**
+
+* Sex on Fire
 
 **KISS**
 
@@ -146,6 +161,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **LOVERBOY**
 
 * Workin For The Weekend
+
+**MAGIC**
+
+* Rude
 
 **MICHAEL JACKSON**
 
@@ -175,6 +194,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Honky Tonk Woman
 * Satisfaction
+* Start Me Up
 
 **ROMANTICS**
 
