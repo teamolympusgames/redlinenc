@@ -51,7 +51,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **BON JOVI**
 
 * Bad Name
-* Dead or Alvie
+* Dead or Alive
 * Livin’ On A Prayer
 
 **BRUNO MARS**
