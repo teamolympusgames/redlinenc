@@ -190,6 +190,15 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Nothin But A Good Time
 
+**PRINCE**
+
+* Kiss
+
+**RIHANNA**
+
+* Only Girl (In The World)
+* Please Don’t Stop The Music
+
 **ROLLING STONES**
 
 * Honky Tonk Woman
@@ -199,10 +208,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **ROMANTICS**
 
 * What I Like About You
-
-**RIHANNA**
-
-* Please Don’t Stop The Music
 
 **SUBLIME**
 
