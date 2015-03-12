@@ -75,9 +75,17 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * I Want You To Want Me
 
+**DAFT PUNK**
+
+* Get Lucky
+
 **DEF LEPPARD**
 
 * Pour Some Sugar
+
+**FOSTER THE PEOPLE**
+
+* Pumped Up Kicks
 
 **GA SATELLITES**
 
@@ -99,6 +107,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **HEART**
 
 * Barracuda
+
+**INXS**
+
+* Need You Tonight
 
 **JAMES BROWN**
 
