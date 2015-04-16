@@ -9,6 +9,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **AC/DC**
 
 * Highway To Hell
+* Rock or Bust
 * Shook Me All Night Long
 
 
@@ -141,10 +142,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Faithfully
 * Separate Ways
 
-**JUSTIN TIMBERLAKE**
-
-* Rock Your Body
-
 **KATY PERRY**
 
 * E.T.
@@ -174,10 +171,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Workin For The Weekend
 
-**MAGIC**
-
-* Rude
-
 **MICHAEL JACKSON**
 
 * Beat It
@@ -187,10 +180,18 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Enter Sandman
 
+**ONE REPUBLIC**
+
+* Counting Stars
+
 **PAT BENATAR**
 
 * Heartbreaker
 * Hit Me With Your Best Shot
+
+**PHARRELL WILLIAMS**
+
+* Happy
 
 **PINK**
 
