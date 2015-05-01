@@ -171,6 +171,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Workin For The Weekend
 
+**MAGIC**
+
+* No Way No
+
 **MICHAEL JACKSON**
 
 * Beat It
