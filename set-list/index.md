@@ -62,6 +62,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **BRYAN ADAMS**
 
+* Run to You
 * Summer of 69
 
 **CAMEO**
@@ -245,6 +246,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **TOM PETTY**
 
 * American Girl
+
+**VAN HALEN**
+
+* Jump
 
 **VAN MORRISON**
 
