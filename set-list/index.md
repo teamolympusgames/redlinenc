@@ -210,6 +210,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **PRINCE**
 
+* 1999
 * Kiss
 
 **RIHANNA**
@@ -254,6 +255,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **VAN MORRISON**
 
 * Brown Eyed Girl
+ 
+**WALK THE MOON**
+
+* Shut Up And Dance
 
 **WILD CHERRY**
 
