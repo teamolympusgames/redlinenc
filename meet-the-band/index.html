@@ -1,6 +1,10 @@
 ---
 title: Meet The Band
 layout: page
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2015-06-29T12:00:00-05:00
 ---
 
 {% for member in site.data.members %}
@@ -18,9 +22,9 @@ layout: page
 <p><!-- end .bio-name --></p>
 
 <div class="bio-image">
-<img class="alignleft size-full wp-image-664" title="{{ member.name }}" 
-src="{{ member.pic }}" 
-alt="{{ member.name }}" 
+<img class="alignleft size-full wp-image-664" title="{{ member.name }}"
+src="{{ member.pic }}"
+alt="{{ member.name }}"
 width="250" height="435" />
 </div>
 <p><!-- end .bio-image --></p>
@@ -40,5 +44,5 @@ width="250" height="435" />
 </div>
 <p><!-- end .bio-wrapper --></p>
 
-			
+
 {% endfor %}

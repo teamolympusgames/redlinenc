@@ -1,6 +1,10 @@
 ---
 title: Calendar | REDLINE
 layout: page
+sitemap:
+    priority: 0.9
+    changefreq: 'weekly'
+    lastmod: 2015-06-29T12:00:00-05:00
 ---
 
 
@@ -20,32 +24,32 @@ layout: page
 {% capture showdate %}{{ show.Date | date: '%s' | divided_by: 86400 }}{% endcapture %}
 {% if nowminusdate < showdate %}
 <tbody class="vevent">
-	
+
 	<tr class="gigpress-row active">
-	
+
 		<td class="gigpress-date">
 			<abbr class="dtstart" title="{{ show.Date }}">{{ show.Date | date: '%m/%d/%y' }}</abbr>
 			<span class="hide url">http://redlinenc.com</span>
 		</td>
-		
+
 	    <td class="gigpress-time">{{ show.Time }}</td>
     	<td class="gigpress-venue location"><a href="{{ show.Url }}" target="_blank">{{ show.Venue }}</a></td>
 		<td class="gigpress-city summary">{{ show.City }}, {{ show.State }}</td>
 	</tr>
-	
+
 	<tr class="gigpress-info active">
 		<td class="gigpress-links-cell"></td>
         <td></td>
 		<td colspan="3" class="description">
-		<span class="gigpress-info-item"><span class="gigpress-info-label">Address:</span> 
-		<a href="http://maps.google.com/maps?&amp;q={{ show.Address | cgi_escape }},{{ show.City | cgi_escape }},{{ show.State | cgi_escape}}" 
+		<span class="gigpress-info-item"><span class="gigpress-info-label">Address:</span>
+		<a href="http://maps.google.com/maps?&amp;q={{ show.Address | cgi_escape }},{{ show.City | cgi_escape }},{{ show.State | cgi_escape}}"
 			class="gigpress-address" target="_blank">{{ show.Address }}</a></span>
-						
+
 		<span class="gigpress-info-item"><span class="gigpress-info-label">Venue phone:</span> {{ show.Phone }}</span>
 		</td>
-      <tr class="gigpress-tr-spacer"></tr>	
+      <tr class="gigpress-tr-spacer"></tr>
 	</tr>
-</tbody>	
+</tbody>
 {% endif %}
 {% endfor %}
 </table>
