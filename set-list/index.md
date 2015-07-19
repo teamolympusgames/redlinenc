@@ -156,6 +156,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Footloose
 
+**KID ROCK**
+
+* All Summer Long
+
 **KINGS OF LEON**
 
 * Sex on Fire
@@ -175,6 +179,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **MAGIC**
 
 * No Way No
+
+**MAROON 5**
+
+* Sugar
 
 **MICHAEL JACKSON**
 
