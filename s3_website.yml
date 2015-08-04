@@ -25,7 +25,7 @@ s3_bucket: www.redlinenc.com
 exclude_from_upload:
    - .git
 
-# s3_reduced_redundancy: true
+s3_reduced_redundancy: true
 
 # cloudfront_distribution_id: your-dist-id
 
