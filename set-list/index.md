@@ -58,6 +58,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **BRUNO MARS**
 
 * Locked Out of Heaven
+* Treasue
 * Uptown Funk
 
 **BRYAN ADAMS**
@@ -81,6 +82,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Get Lucky
 
+**DAVID BOWIE**
+
+* Let's Dance
+ 
 **DEF LEPPARD**
 
 * Pour Some Sugar
@@ -193,6 +198,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Enter Sandman
 
+**NO DOUBT**
+
+* Hella Good
+
 **ONE REPUBLIC**
 
 * Counting Stars
@@ -234,6 +243,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **ROMANTICS**
 
+* Talking in Your Sleep
 * What I Like About You
 
 **SUBLIME**
