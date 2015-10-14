@@ -17,8 +17,8 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Sweet Emotion
 * Walk This Way
-  
-  
+
+
 **BAD COMPANY**
 
 * Can’t Get Enough
@@ -85,7 +85,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **DAVID BOWIE**
 
 * Let's Dance
- 
+
 **DEF LEPPARD**
 
 * Pour Some Sugar
@@ -147,6 +147,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Don’t Stop Believing
 * Faithfully
 * Separate Ways
+* Stone in Love
 
 **KATY PERRY**
 
@@ -273,7 +274,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **VAN MORRISON**
 
 * Brown Eyed Girl
- 
+
 **WALK THE MOON**
 
 * Shut Up And Dance
