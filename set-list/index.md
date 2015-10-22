@@ -90,6 +90,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Pour Some Sugar
 
+**ED SHEERAN**
+
+* Thinking Out Loud
+
 **FOSTER THE PEOPLE**
 
 * Pumped Up Kicks
