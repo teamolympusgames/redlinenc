@@ -94,6 +94,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Thinking Out Loud
 
+**FALLOUT BOY**
+
+* Uma Thurman
+
 **FOSTER THE PEOPLE**
 
 * Pumped Up Kicks
