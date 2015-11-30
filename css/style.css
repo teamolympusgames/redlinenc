@@ -1,4 +1,4 @@
-/*   
+/*
 Theme Name: Redline Band v1.1
 Theme URI: http://www.haxworkz.com
 Description: Redline Band NC Theme
@@ -68,7 +68,7 @@ h5 {
 #innerWrapper {
 	margin: 0 auto;
 	padding: 0;
-	width: 900px;	
+	width: 900px;
 }
 
 /* style configuration for the header elements */
@@ -89,7 +89,7 @@ header h1 {
 /* style configuration for the band photo and social networking elements */
 #band-photo {
 	width: 900px;
-	height: 306px;
+	height: 400px;
 	margin-top: 40px;
 	background: url(images/band_photo.png) no-repeat;
 }
@@ -186,12 +186,12 @@ form#alo_easymail_widget_form {
 	background: #111;
 	padding: 10px 0 10px 5px;
 }
-	
+
 #alo_easymail_widget_form td {
 	padding: 0 5px 10px 0;
 }
 #alo_easymail_widget_form label {
-	
+
 }
 #alo_easymail_widget_form input.input-text {
 background-color: transparent;
@@ -228,7 +228,7 @@ input#s {
 .set-list-col {
 	float: left;
 	width: 175px;
-	margin: 0 10px;	
+	margin: 0 10px;
 }
 .set-list-col li {
 	list-style-type: none;
