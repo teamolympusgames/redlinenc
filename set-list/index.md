@@ -201,14 +201,17 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Sugar
 
+**METALLICA**
+
+* Enter Sandman
+
 **MICHAEL JACKSON**
 
 * Beat It
 * Billie Jean
 
-**METALLICA**
-
-* Enter Sandman
+**MIRANDA LAMBERT**
+* Gunpowder and Lead
 
 **NO DOUBT**
 
