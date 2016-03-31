@@ -93,9 +93,17 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Pour Some Sugar
 
+**DURAN DURAN**
+
+* Hungry Like the Wolf
+
 **ED SHEERAN**
 
 * Thinking Out Loud
+
+**ELLE KING**
+
+* Exes and Ohs
 
 **FALLOUT BOY**
 
@@ -108,6 +116,14 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **GA SATELLITES**
 
 * Keep Your Hands To Yo’self
+
+**GEORGE MICHAEL**
+
+* Faith
+
+**GO-GOS**
+
+* We Got the Beat
 
 **GRACE POTTER**
 
@@ -265,6 +281,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **SUBLIME**
 
 * Santeria
+ 
+**TED NUGENT**
+
+* Cat Scratch Fever
 
 **THE COMMODORES**
 
