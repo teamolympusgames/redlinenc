@@ -205,6 +205,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Rock & Roll
 
+**LIT**
+
+* My Own Worst Enemy
+
 **LOVERBOY**
 
 * Workin For The Weekend
@@ -293,6 +297,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **THE OUTFIELD**
 
 * Your Love
+
+**TINA TURNER**
+
+* What's Love Got to Do with It?
 
 **TONI BASIL**
 
