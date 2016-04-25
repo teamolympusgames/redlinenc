@@ -61,7 +61,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **BRUNO MARS**
 
 * Locked Out of Heaven
-* Treasue
+* Treasure
 * Uptown Funk
 
 **BRYAN ADAMS**
