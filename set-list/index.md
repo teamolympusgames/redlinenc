@@ -282,6 +282,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Talking in Your Sleep
 * What I Like About You
 
+**SHANIA TWAIN**
+
+* Man I Feel Like a Woman
+
 **SUBLIME**
 
 * Santeria
@@ -332,6 +336,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **ZZ TOP**
 
+* La Grange
 * Tush
 
 **MOTOWN**
