@@ -23,7 +23,7 @@ sitemap:
 
 <div class="bio-image">
 <img class="alignleft size-full wp-image-664" title="{{ member.name }}"
-src="{{ member.pic }}"
+src="{{ member.pic | prepend: site.baseurl}}"
 alt="{{ member.name }}"
 width="250" height="435" />
 </div>
