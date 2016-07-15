@@ -18,7 +18,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Sweet Emotion
 * Walk This Way
 
-** ALANNAH MYLES **
+**ALANNAH MYLES**
 
 * Black Velvet
 
