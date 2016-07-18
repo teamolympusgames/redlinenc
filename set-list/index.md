@@ -18,6 +18,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Sweet Emotion
 * Walk This Way
 
+**ALANNAH MYLES**
+
+* Black Velvet
+
 **ALANIS MORISSETTE**
 
 * You Oughta Know
@@ -265,6 +269,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * 1999
 * Kiss
+* When Doves Cry
 
 **RIHANNA**
 
