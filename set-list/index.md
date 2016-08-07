@@ -177,6 +177,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Anyway You Want It
 * Don’t Stop Believing
 * Faithfully
+* Lovin', Touchin', Squeezin'
 * Separate Ways
 * Stone in Love
 
@@ -224,6 +225,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **MAROON 5**
 
 * Sugar
+
+**MELISSA ETHERIDGE**
+
+* I'm the Only One
 
 **METALLICA**
 
