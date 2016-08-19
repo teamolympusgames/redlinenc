@@ -9,7 +9,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **AC/DC**
 
 * Highway To Hell
-* Rock or Bust
 * Shook Me All Night Long
 
 
@@ -31,6 +30,9 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Fight For Your Right
 
+**BIG & RICH**
+
+* Save a Horse (Ride a Cowboy)
 
 **BILLY IDOL**
 
@@ -62,6 +64,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **DEF LEPPARD**
 
 * Pour Some Sugar
+
+**DNCE**
+
+* Cake by the Ocean
 
 **DURAN DURAN**
 
@@ -126,6 +132,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * All Summer Long
 
+**KORN**
+
+* Word Up
+
 **LIT**
 
 * My Own Worst Enemy
@@ -165,6 +175,9 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Kiss
 * When Doves Cry
 
+**QUEEN**
+
+* Another One Bites the Dust
 
 **ROLLING STONES**
 
@@ -184,7 +197,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **SUBLIME**
 
 * Santeria
- 
+
 **TED NUGENT**
 
 * Cat Scratch Fever
